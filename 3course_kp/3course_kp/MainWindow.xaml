@@ -7,6 +7,21 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Border HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="517">
+            <Menu>
+                <MenuItem Header="Options" Height="30" Width="70">
+                    <MenuItem Header="Search" HorizontalAlignment="Left" Height="30" Width="140"/>
+                    <MenuItem Header="Connection" HorizontalAlignment="Left" Height="30" Width="140"/>
+                </MenuItem>
+                <MenuItem Header="Account" Height="30" Width="70">
+                    <MenuItem Header="Login" HorizontalAlignment="Left" Height="30" Width="140"/>
+                    <MenuItem Header="Exit" HorizontalAlignment="Left" Height="30" Width="140"/>
+                    <MenuItem Header="Registration" HorizontalAlignment="Left" Height="30" Width="140"/>
+                </MenuItem>
+                <MenuItem Header="Help" Height="30" Width="70"/>
+            </Menu>
+        </Border>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="327,108,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" x:Name="Button1"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="417,75,0,0" VerticalAlignment="Top" Width="75"/>
     </Grid>
 </Window>

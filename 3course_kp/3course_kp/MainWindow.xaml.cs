@@ -24,5 +24,16 @@ namespace _3course_kp
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            //string text = TextBox1.Text;
+            //if (text != "")
+            //{
+            //    TextBlock1.Text += text;
+            //}
+            //TextBox1.Clear();
+            //TextBox1.Focus();
+        }
     }
 }

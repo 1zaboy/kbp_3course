@@ -1,0 +1,15 @@
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\bin\Debug\3course_kp.exe.config
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\bin\Debug\3course_kp.exe
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\bin\Debug\3course_kp.pdb
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\obj\Debug\MainWindow.g.cs
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\obj\Debug\App.g.cs
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\obj\Debug\3course_kp_MarkupCompile.cache
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\obj\Debug\3course_kp_MarkupCompile.lref
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\obj\Debug\MainWindow.baml
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\obj\Debug\3course_kp.g.resources
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\obj\Debug\_3course_kp.Properties.Resources.resources
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\obj\Debug\3course_kp.csproj.GenerateResource.Cache
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\obj\Debug\3course_kp.csproj.CoreCompileInputs.cache
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\obj\Debug\3course_kp.exe
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\obj\Debug\3course_kp.pdb
+C:\vlad\Repo\kbp_3course\3course_kp\3course_kp\obj\Debug\3course_kp.csprojResolveAssemblyReference.cache
